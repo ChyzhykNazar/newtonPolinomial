@@ -1,4 +1,4 @@
-# newtonPolinomial
+# Newton Polinomial (Поліном Ньютона)
 📖Educational project, where presented construction of the Newton interpolation polynomial
 
 📖Навчальний проект, де представлено побудову інтерполяційного поліному Ньютонa
